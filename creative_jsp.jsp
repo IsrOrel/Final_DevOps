@@ -63,7 +63,7 @@
     <div class="container">
         <img src="creative_image.png" alt="Creative Picture" class="picture">
         <h1>Welcome to the Orel and Shahar JSP!</h1>
-        <p>This JSP file is <span class="sparkle">incredibly creative and innovative.</span></p>
+        <p>This JSP file is incredibly creative and innovative.</p>
         <p>It showcases the power of <span class="sparkle"> CICD with Monitoring.</span></p>
         <div class="message">
             <p><span class="sparkle">DevOps!</span></p>
